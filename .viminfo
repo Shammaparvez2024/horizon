@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1684225769,,"wq!"
+|2,0,1684231807,,"wq!"
 :q!
 |2,0,1684225297,,"q!"
 
@@ -54,28 +54,50 @@
 |3,0,9,1,1,0,1684225173,")"
 
 # File marks:
-'0  8  34  ~/aws.sh
-|4,48,8,34,1684225769,"~/aws.sh"
-'1  20  47  ~/aws.sh
-|4,49,20,47,1684225396,"~/aws.sh"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1684231807,"~/.git/COMMIT_EDITMSG"
+'1  8  34  ~/aws.sh
+|4,49,8,34,1684225769,"~/aws.sh"
 '2  20  47  ~/aws.sh
 |4,50,20,47,1684225396,"~/aws.sh"
-'3  20  0  ~/.bash/script
-|4,51,20,0,1684225297,"~/.bash/script"
-'4  1  0  ~/bash/file
-|4,52,1,0,1684225188,"~/bash/file"
+'3  20  47  ~/aws.sh
+|4,51,20,47,1684225396,"~/aws.sh"
+'4  20  0  ~/.bash/script
+|4,52,20,0,1684225297,"~/.bash/script"
+'5  1  0  ~/bash/file
+|4,53,1,0,1684225188,"~/bash/file"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1684231807,"~/.git/COMMIT_EDITMSG"
+-'  8  34  ~/aws.sh
+|4,39,8,34,1684225769,"~/aws.sh"
 -'  8  34  ~/aws.sh
 |4,39,8,34,1684225769,"~/aws.sh"
 -'  20  47  ~/aws.sh
 |4,39,20,47,1684225521,"~/aws.sh"
+-'  20  47  ~/aws.sh
+|4,39,20,47,1684225521,"~/aws.sh"
+-'  20  47  ~/aws.sh
+|4,39,20,47,1684225396,"~/aws.sh"
 -'  20  47  ~/aws.sh
 |4,39,20,47,1684225396,"~/aws.sh"
 -'  1  0  ~/aws.sh
 |4,39,1,0,1684225360,"~/aws.sh"
 -'  1  0  ~/aws.sh
 |4,39,1,0,1684225360,"~/aws.sh"
+-'  1  0  ~/aws.sh
+|4,39,1,0,1684225360,"~/aws.sh"
+-'  1  0  ~/aws.sh
+|4,39,1,0,1684225360,"~/aws.sh"
+-'  20  0  ~/.bash/script
+|4,39,20,0,1684225297,"~/.bash/script"
+-'  20  0  ~/.bash/script
+|4,39,20,0,1684225297,"~/.bash/script"
+-'  20  0  ~/.bash/script
+|4,39,20,0,1684225297,"~/.bash/script"
+-'  20  0  ~/.bash/script
+|4,39,20,0,1684225297,"~/.bash/script"
 -'  20  0  ~/.bash/script
 |4,39,20,0,1684225297,"~/.bash/script"
 -'  20  0  ~/.bash/script
@@ -92,6 +114,30 @@
 |4,39,1,0,1684225205,"~/.bash/script"
 -'  1  0  ~/.bash/script
 |4,39,1,0,1684225205,"~/.bash/script"
+-'  1  0  ~/.bash/script
+|4,39,1,0,1684225205,"~/.bash/script"
+-'  1  0  ~/.bash/script
+|4,39,1,0,1684225205,"~/.bash/script"
+-'  1  0  ~/.bash/script
+|4,39,1,0,1684225205,"~/.bash/script"
+-'  1  0  ~/.bash/script
+|4,39,1,0,1684225205,"~/.bash/script"
+-'  1  0  ~/bash/file
+|4,39,1,0,1684225188,"~/bash/file"
+-'  1  0  ~/bash/file
+|4,39,1,0,1684225188,"~/bash/file"
+-'  1  0  ~/bash/file
+|4,39,1,0,1684225188,"~/bash/file"
+-'  1  0  ~/bash/file
+|4,39,1,0,1684225188,"~/bash/file"
+-'  1  0  ~/bash/file
+|4,39,1,0,1684225188,"~/bash/file"
+-'  1  0  ~/bash/file
+|4,39,1,0,1684225188,"~/bash/file"
+-'  1  0  ~/bash/file
+|4,39,1,0,1684225188,"~/bash/file"
+-'  1  0  ~/bash/file
+|4,39,1,0,1684225188,"~/bash/file"
 -'  1  0  ~/bash/file
 |4,39,1,0,1684225188,"~/bash/file"
 -'  1  0  ~/bash/file
@@ -110,6 +156,10 @@
 |4,39,1,0,1684225188,"~/bash/file"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1684231801	0
+	"	1	0
 
 > ~/aws.sh
 	*	1684225764	0
